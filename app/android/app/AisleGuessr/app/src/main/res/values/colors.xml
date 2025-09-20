@@ -20,7 +20,7 @@
     <!-- Main colours -->
     <color name="primary_colour">#00539F</color>
     <color name="primary_pressed_colour">#003A6F</color>
-    <color name="primary_disabled_colour">#597491</color>
+    <color name="primary_disabled_colour">#A1BDD8</color>
     <color name="secondary_colour">#EE1C2E</color>
     <color name="secondary_pressed_colour">#A71420</color>
     <color name="secondary_disabled_colour">#D88A96</color>

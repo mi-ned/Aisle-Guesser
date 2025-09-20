@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  AisleGuessr
+
+  Created by Miroslav Nedeljkovic on 20/09/2025.
+  
+*/
+
+"app_name" = "Aisle Guessr";
+
+//main menu buttons
+"disclaimer" = "Disclaimer";
+"play" = "Play";
+"glossary" = "Glossary";
+"settings" = "Settings";
+"information" = "Information";
