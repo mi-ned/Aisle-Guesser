@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default colours -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Light colours-->
+    <color name="background_colour">#F0F0F0</color>
+    <color name="surface_colour">#FAFAFA</color>
+    <color name="utility_colour">#E1E1E1</color>
+    <color name="utility_colour_focused">#D6D6D6</color>
+    <color name="utility_colour_disabled">#F5F5F5</color>
+    <color name="text_colour">#1E2022</color>
+
+    <!-- Main colours -->
+    <color name="primary_colour">#00539F</color>
+    <color name="primary_pressed_colour">#003A6F</color>
+    <color name="primary_disabled_colour">#597491</color>
+    <color name="secondary_colour">#EE1C2E</color>
+    <color name="secondary_pressed_colour">#A71420</color>
+    <color name="secondary_disabled_colour">#D88A96</color>
+    <color name="tertiary_colour">#FCD700</color>
+    <color name="tertiary_pressed_colour">#E3C200</color>
+    <color name="tertiary_disabled_colour">#E0DA94</color>
+
+    <!-- Status colours-->
+    <color name="status_info_colour">#017EB3</color>
+    <color name="status_success_colour">#018701</color>
+    <color name="status_warning_colour">#FF9901</color>
+    <color name="status_error_colour">#CC0122</color>
+
+    <!-- Timer colours -->
+    <color name="timer_active_colour">@color/status_info_colour</color>
+    <color name="timer_stable_colour">@color/status_success_colour</color>
+    <color name="timer_warning_colour">@color/status_warning_colour</color>
+    <color name="timer_critical_colour">@color/status_error_colour</color>
+
+    <!-- End screen -->
+    <color name="total_levels_colour_start">#4DA4C9</color>
+    <color name="total_levels_colour_end">#00587D</color>
+    <color name="correct_answers_colour_start">#4DAB4D</color>
+    <color name="correct_answers_colour_end">#005E00</color>
+    <color name="missed_answers_colour_start">#FFB74D</color>
+    <color name="missed_answers_colour_end">#B26B00</color>
+    <color name="wrong_answers_colour_start">#DB4D64</color>
+    <color name="wrong_answers_colour_end">#CC0122</color>
+
+    <!-- others -->
+    <color name="transparent">#00FFFFFF</color>
+
+</resources>

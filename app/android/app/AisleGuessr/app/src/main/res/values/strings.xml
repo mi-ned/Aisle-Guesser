@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">AisleGuessr</string>
+
+    <string name="disclaimer">Disclaimer</string>
+    <string name="play">Play</string>
+    <string name="glossary">Glossary</string>
+    <string name="settings">Settings</string>
+    <string name="information">Information</string>
+
+    <string name="back_arrow">←</string>
+
+    <!-- Disclaimer -->
+    <string-array name="disclaimer_points">
+        <item>VERY IMPORTANT READ!</item>
+        <item>This application is a personal project developed for entertainment purposes only. It is not affiliated with, sponsored by, or endorsed by Tesco Stores Ltd. This app is not an official training tool and should not be used as a resource for company procedures or policies.</item>
+        <item>All data presented within this application is entirely fictional. This includes product names, descriptions, and aisle locations. Any resemblance to real products, locations, or store layouts is purely coincidental. The information provided is not intended to reflect actual conditions and should not be relied upon for any purpose.</item>
+        <item>This application is offered on an “as-is” and “as-available” basis without any warranties of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. The developer assumes no liability for any reliance on the information provided for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use this application.</item>
+        <item>This application and its content are the intellectual property of the developer. The app’s design, content, and functionality are the result of personal development and are not finalised. They are subject to change without prior notice. The developer reserves the right to modify this disclaimer at any time.</item>
+        <item>By proceeding, you acknowledge that you have read and agreed to these terms. If you do not accept these conditions, you are advised to exit the application.</item>
+    </string-array>
+
+    <!-- In game -->
+    <string name="high_score">High score </string>
+    <string name="current_score">Current score </string>
+
+    <string name="unavailable">Unavailable</string>
+    <string name="upstairs">Upstairs</string>
+    <string name="hint_options">Fresh or Frozen</string>
+
+    <string name="enter_answer_here">Enter answer here:</string>
+
+    <!-- Glossary -->
+    <string-array name="glossary_aisle_numbers">
+        <item>Aisle 1</item>
+        <item>Aisle 2</item>
+        <item>Aisle 3</item>
+        <item>Aisle 4</item>
+        <item>Aisle 5</item>
+        <item>Aisle 6</item>
+        <item>Aisle 7</item>
+        <item>Aisle 8</item>
+        <item>Aisle 9</item>
+        <item>Aisle 10</item>
+        <item>Aisle 11</item>
+        <item>Aisle 12</item>
+        <item>Aisle 13</item>
+        <item>Aisle 14</item>
+        <item>Aisle 15</item>
+        <item>Aisle 16</item>
+        <item>Aisle 17</item>
+        <item>Aisle 18</item>
+        <item>Aisle 19</item>
+        <item>Aisle 20</item>
+        <item>Aisle 21</item>
+        <item>Aisle 22</item>
+        <item>Aisle 23</item>
+        <item>Aisle 24</item>
+        <item>Aisle 25</item>
+        <item>Aisle 26</item>
+        <item>Aisle 27</item>
+        <item>Aisle 28</item>
+        <item>Aisle 29</item>
+        <item>Upstairs</item>
+    </string-array>
+
+    <string-array name="glossary_contents">
+        <item>bananas, berries, cherries, exotic fruits, grapes, melons, nectarines, peaches, pineapples, plums, etc…</item>
+        <item>apples, avocado, dates, dried fruit, figs, grapefruit, lemons, limes, oranges, pears, etc…</item>
+        <item>carrots, cucumbers, garlic, mushrooms, onions, peppers, potatoes, squash, sweet potatoes, tomatoes, etc…</item>
+        <item>asparagus, broccoli, cauliflower, celery, fresh herbs, kale, lettuce, salad bags, spinach, spring onions, etc…</item>
+        <item>antiseptic, first aid, medicines, men\'s deodorant, mouthwash, shaving foam, supplements, toothbrush, toothpaste, vitamins, etc…</item>
+        <item>body lotion, conditioner, cotton buds, facial cleansing, hand gel, makeup, sanitary pads, shampoo, soap, women\'s deodorant, etc…</item>
+        <item>baby accessories, baby drinks, baby food, baby lotion, baby milk, baby toys, baby wipes, nappies, nasal aspirators, toddler accessories, etc…</item>
+        <item>batteries, bin bags, boxes, cling film, clothes pegs, cutlery, foil, food bags, light bulbs, tapes, etc…</item>
+        <item>airspray, all-purpose cleaner, anti-bacterial wipes, bleach, detergent pods, drain unblocker, laundry detergent, oven cleaner, toilet cleaner, washing up liquid, etc…</item>
+        <item>bird seeds, cat food, cat litter, dog food, dog toys, fish flakes, hamster food, pest control, pet bowl, rabbit food, etc…</item>
+        <item>chopping board, cups, cutlery, food storage, jars, kitchen accessories, mugs, pans, plates, trays, etc…</item>
+        <item>alcohol-free, champagne, cider, craft beer, gin &amp; tonic, lager, vermouth, vodka, whisky, wine, etc…</item>
+        <item>cola, cordial, fizzy drinks, fruit juice, lemonade, milkshake, mineral water, soft drink, sparkling water, squash, etc…</item>
+        <item>frozen chips, frozen dumplings, frozen meals, frozen pastry, frozen peas, frozen potato, frozen sweetcorn, frozen vegetables, garlic bread, yorkshire puddings, etc…</item>
+        <item>chicken nuggets, fish fingers, frozen fish, frozen fruits, frozen meat, frozen mussels, frozen pizza, frozen prawns, ice cream, ice lollies, etc…</item>
+        <item>biscuits, chocolate biscuits, cookies, cream crackers, digestives, fig rolls, jaffa cakes, oatcakes, savoury biscuits, tea cakes, etc…</item>
+        <item>chewing gum, chocolate buttons, chocolate, fudge, jelly sweets, liquorice, mint, pralines, sweets, wafer bar, etc…</item>
+        <item>beef jerky, crisps, nacho, peanuts, popcorn, poppadoms, pork scratchings, rice crackers, scampi fries, vegetable crisps, etc…</item>
+        <item>chutney, ketchup, mayonnaise, mustard, pasta, rice, spaghetti, tinned fish, tinned vegetables, vinegar, etc…</item>
+        <item>black pepper, breadcrumbs, cooking oil, gravy granules, herbs, msg, salt, spices, stock cubes, vinegar, etc…</item>
+        <item>bacon, chicken breast, chicken wings, duck, guinea fowl, halal meat, pork, sausages, turkey, whole chicken, etc…</item>
+        <item>beef, cod, fish, haddock, lamb, mince, oxtail, salmon, sea bass, tuna, etc…</item>
+        <item>chinese meals, cottage pie, fish pie, garlic bread, indian meals, microwave meals, pasta dishes, pizzas, ready meals, sushi platter, etc…</item>
+        <item>brie cheese, cheddar cheese, cheese slices, chicken slices, chorizo, ham slices, mozzarella, pancetta, pepperoni, salami, etc…</item>
+        <item>butter, cream, custard, dairy-free milk, greek yogurt, kefir, lard, milk, natural yogurt, pastry, etc…</item>
+        <item>cereal, chocolate cereal, corn flakes, crunchy nut, granola, long life milk, muesli, porridge, protein shakes, wheat biscuits, etc…</item>
+        <item>chocolate spread, coffee beans, coffee, decaf coffee, decaf tea, jam, marmalade, marmite, peanut butter, tea, etc…</item>
+        <item>baking powder, cocoa, cupcake liners, eggs, food colouring, flour, sugar, sweeteners, vanilla, yeast, etc…</item>
+        <item>bagels, bread, buns, cakes, croissants, crumpets, cupcakes, doughnuts, muffins, rolls, etc…</item>
+        <item>candles, cutlery, electronics, furniture, hats, plates, shirts, stationary, trousers, toys, etc…</item>
+    </string-array>
+
+    <string name="glossary_search_bar">Glossary search bar</string>
+    <string name="search_for_a_product">Search for an aisle number or product…</string>
+
+    <string name="clear_search_text_description">clear search text description</string>
+
+</resources>
